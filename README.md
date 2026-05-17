@@ -76,11 +76,16 @@ Mobile application designed to help visually impaired users read text using smar
 ---
 
 ## 📂 Repositories
-### 🏥 CitasGestion
-Collaborative software development project focused on the redesign and optimization of a clinical appointment management system.
+### 🏥 CitasGestion *(Private Repository)*
 
-🔗 Repository:  
-https://github.com/marzod03/CitasGestion
+Collaborative software development project for the Neurodevelopment Research Unit at UNAM Juriquilla.
+
+- Analysis and optimization of appointment management systems
+- Database evaluation and restructuring proposals
+- System redesign and redevelopment
+- Team collaboration using GitHub workflows and Docker environments
+
+🔒 Private repository used for internal development and research support.
 
 ## 📚 Certifications & Courses
 
