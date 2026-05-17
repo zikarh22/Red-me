@@ -76,13 +76,11 @@ Mobile application designed to help visually impaired users read text using smar
 ---
 
 ## 📂 Repositories
+### 🏥 CitasGestion
+Collaborative software development project focused on the redesign and optimization of a clinical appointment management system.
 
-- [CrearUsuario31](https://github.com/Renixt/CrearUsuario31)
-- [ProyectoIADAM24-2](https://github.com/PoulsenGuy/ProyectoIADAM24-2)
-- [server-g31](https://github.com/zikarh22/server-g31)
-- [proyecto-cloud](https://github.com/zikarh22/proyecto-cloud)
-
----
+🔗 Repository:  
+https://github.com/marzod03/CitasGestion
 
 ## 📚 Certifications & Courses
 
