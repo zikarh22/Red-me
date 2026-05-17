@@ -1,55 +1,112 @@
-# ¡Hola! 👋 Soy Jaime López (zikarh22)
+# Hi there! 👋 I'm Jeser Jaimes López (zikarh22)
 
-### 🚀 Estudiante y Desarrollador enfocado en soluciones para pequeñas empresas
+### 🚀 Software Engineering Student | Software Developer
 
-¡Bienvenido/a a mi perfil de GitHub!  
-Actualmente soy estudiante, apasionado por el desarrollo de proyectos tecnológicos que impulsan a pequeñas empresas a alcanzar sus objetivos. Siempre busco aprender algo nuevo y superar retos, tanto en el mundo del software como en la vida cotidiana.
-
----
-
-## 💼 Especialización
-
-- **Desarrollo de proyectos para empresas pequeñas**
-- Orientado a soluciones prácticas y escalables
-- Colaborativo y con mentalidad de crecimiento
+Welcome to my GitHub profile!  
+I am a final-year Software Engineering student passionate about software development, databases, data analysis, image processing, and technological innovation. I enjoy building practical solutions, learning new technologies, and collaborating on impactful projects.
 
 ---
 
-## 🛠️ Tecnologías y habilidades principales
+## 💼 Professional Interests
 
-- **Lenguajes:**  
-  - Español (nativo) 🇪🇸  
-  - English (intermediate) 🇬🇧  
-- **Programación:** (completa aquí tus lenguajes y frameworks favoritos, por ejemplo:)  
-  - JavaScript, Python, SQL  
-  - Node.js, Express, React  
-  - Git & GitHub
-
----
-
-## 🌟 Proyectos destacados
-
-- [CrearUsuario31](https://github.com/Renixt/CrearUsuario31)  
-- [ProyectoIADAM24-2](https://github.com/PoulsenGuy/ProyectoIADAM24-2)  
-- [server-g31](https://github.com/zikarh22/server-g31)  
-- [proyecto-cloud](https://github.com/zikarh22/proyecto-cloud)  
-
-¿Quieres saber más? ¡Explora mis repositorios!
+- Software system development
+- Database analysis and optimization
+- Data analysis and data visualization
+- Computer vision and image processing
+- Web and mobile application development
+- Research and technological innovation
 
 ---
 
-## 👾 Sobre mí
+## 🛠️ Technologies & Skills
 
-- Me encanta leer historias épicas y sumergirme en mundos fantásticos 📚⚔️  
-- Fan de los videojuegos en mi tiempo libre 🎮  
-- Siempre dispuesto a colaborar, aprender y compartir conocimientos
+### 💻 Programming Languages
+- Python
+- C / C#
+- Java
+- JavaScript
+- PHP
+- SQL
+- HTML / CSS
+
+### ⚙️ Tools & Technologies
+- OpenCV
+- Docker
+- Unreal Engine 5
+- Git & GitHub
+- MySQL
+- Microsoft Office
+- Database management tools
+- Development environments and code editors
+
+### 🌎 Languages
+- Spanish (Native) 🇲🇽
+- English (Intermediate) 🇬🇧
 
 ---
 
-## 📫 Conecta conmigo
+## 🌟 Featured Projects
+
+### 🧠 Clinical Appointment System Redesign
+Collaborative development project at the Neurodevelopment Research Unit (UNAM Juriquilla).
+
+- Analysis and optimization of appointment management systems
+- Database structure evaluation and improvements
+- System redesign and redevelopment
+- Team collaboration using GitHub workflows
+
+---
+
+### 👁️ Image Processing and AI Image Analysis
+Research collaboration project at UAQ focused on distinguishing AI-generated images from real images.
+
+- Image processing with Python and OpenCV
+- Noise reduction and histogram analysis
+- Pattern recognition and image enhancement techniques
+
+---
+
+### 📱 Help Reader — Honorary Mention
+Mobile application designed to help visually impaired users read text using smartphone cameras.
+
+- Mobile application development
+- Database design and management
+- Accessibility-oriented solution
+
+---
+
+## 📂 Repositories
+
+- [CrearUsuario31](https://github.com/Renixt/CrearUsuario31)
+- [ProyectoIADAM24-2](https://github.com/PoulsenGuy/ProyectoIADAM24-2)
+- [server-g31](https://github.com/zikarh22/server-g31)
+- [proyecto-cloud](https://github.com/zikarh22/proyecto-cloud)
+
+---
+
+## 📚 Certifications & Courses
+
+- Data Visualization with Python
+- AWS Course
+- Oracle Diploma Program
+- Unreal Engine 5 Course
+- Project Management and Software Development
+
+---
+
+## 👾 About Me
+
+- Passionate about technology and continuous learning
+- Interested in collaborative and impactful projects
+- Enjoy solving problems and exploring new technologies
+- Video game and fantasy story enthusiast 🎮📚
+
+---
+
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaimes-lopez-jeser-6aa620354)
 
 ---
 
-> _“La tecnología no solo resuelve problemas, también crea oportunidades para crecer.”_
+> *“Technology not only solves problems, it also creates opportunities to grow.”*
